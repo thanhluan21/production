@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Xin chào tôi là Luân"
+  },
+  {
+    "role": "assistant",
+    "content": "Xin chào, Luân! Rất vui được gặp bạn. Bạn cần giúp gì hôm nay?"
+  },
+  {
+    "role": "user",
+    "content": "Bạn nhớ tên tôi không"
+  },
+  {
+    "role": "assistant",
+    "content": "Có, bạn đã giới thiệu tên là Luân. Làm thế nào tôi có thể giúp bạn hôm nay?"
+  }
+]

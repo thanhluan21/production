@@ -1,0 +1,22 @@
+{
+    "full_name": "Thái Thành Luân",
+    "name": "Luân",
+    "current_role": "Kỹ sư Phần mềm & Giảng viên AWS DVA",
+    "location": "Nha Trang, Khánh Hòa",
+    "email": "luanbeo21@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/th%C3%A1i-th%C3%A0nh-lu%C3%A2n-213b80256/",
+    "specialties": [
+      "AWS Developer Associate (DVA)",
+      "Software Engineering",
+      "Cloud & Serverless Architecture"
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Kỹ Sư",
+        "institution": "Nha Trang University",
+        "year": "2018"
+      }
+    ]
+  }
+  
